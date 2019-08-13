@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>CategoryProductGrid</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Add more column filter options to the Category Products grid when setting up a category.</summary>
+    <description>Add more column filter options to the Category Products grid when setting up a category.</description>
+    <notes>Initial release</notes>
+    <authors><author><name>Cartin24</name><user>Cartin24</user><email>developer@cartin24.com</email></author></authors>
+    <date>2015-07-15</date>
+    <time>11:07:42</time>
+    <contents><target name="magecommunity"><dir name="Cartin24"><dir name="Categorygrid"><dir name="Block"><dir name="Adminhtml"><dir name="Catalog"><dir name="Category"><dir name="Tab"><file name="Product.php" hash="5f685b870a2febeac8467fbb28b697f0"/></dir></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="89c47d52e1f1b052282135b59615d0d5"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Cartin24_Categorygrid.xml" hash="ce2da75d4970674ecc6273a23a5d1984"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
