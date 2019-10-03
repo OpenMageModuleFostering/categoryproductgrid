@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/CategoryProductGrid",
+    "name": "openmage-module-fostering\/categoryproductgrid",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Add more column filter options to the Category Products grid when setting up a category.",
     "authors": [
