@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/CategoryProductGrid",
+    "name": "OpenMageModuleFostering\/CategoryProductGrid",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Add more column filter options to the Category Products grid when setting up a category.",
     "authors": [
-    {
-        "name": "Cartin24",
-        "email": "developer@cartin24.com"
-    }
-],
+        {
+            "name": "Cartin24",
+            "email": "developer@cartin24.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
